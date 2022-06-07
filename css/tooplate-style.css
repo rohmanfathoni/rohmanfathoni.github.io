@@ -320,6 +320,12 @@ b, strong {
 .dark-mode .color-mode {
   color: #ffffff;
 }
+
+.dark-mode .navbar-collapse{
+  background: #0c0c0d;
+}
+
+
 .dark-mode .owl-carousel .owl-nav button.owl-next,
 .dark-mode .owl-carousel .owl-nav button.owl-prev,
 .dark-mode .owl-carousel button.owl-dot {
